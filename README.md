@@ -1,0 +1,1 @@
+REliable Chatbot to teach the games of Football and Cricket. RAG using langchain wrappers on ChromaDB as vectorstore and Ollama to run llama3 locally,  Builting reliable referencing and context generation using RAG and any new doc can be indexed without indexing all the already indexed docs
