@@ -1,0 +1,5 @@
+Ollama
+langchain
+unstructured[md]
+pypdf
+chromadb
